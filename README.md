@@ -1,4 +1,4 @@
-# Crossword_Puzzle_Generator
+# Crossword Puzzle Generator
 Crossword Anagram
 
 Program:
